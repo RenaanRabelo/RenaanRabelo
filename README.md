@@ -1,10 +1,8 @@
 <h1>
-  Bem-vindo ✌️ Meu nome é Renan.
+  Bem-vindo(a) ✌️ Meu nome é Renan.
 </h1>
 
 <div>
-  
-  • 20 anos
   
   • Estudante de programação 👨‍💻
   
@@ -20,8 +18,9 @@
 ##
 
 <div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenaanRabelo&layout=compact&langs_count=7&theme=github_dark"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=RenaanRabelo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/RenaanRabelo">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenaanRabelo&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=RenaanRabelo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div><br>
   
 <div align="center">
