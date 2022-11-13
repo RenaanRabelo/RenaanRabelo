@@ -2,15 +2,18 @@
 Bem-vindo! Meu nome é Renan.
 </h1>
 
-• Estudante de programação 👨‍💻
+<div>
+  • Estudante de programação 👨‍💻
+  
+  • Atualmente estou cursando ADS na Universidade Cruzeiro do Sul.
 
-• Atualmente estou cursando ADS na Universidade Cruzeiro do Sul.
+  • Aluno do Instituto Proa, aprendendo Desenvolvimento Web Full Stack Java.
 
-• Aluno do Instituto Proa, aprendendo Desenvolvimento Web Full Stack Java.
+  • Procuro aprender um pouco todos os dias  para ingressar no mercado de trabalho.
 
-• Procuro aprender um pouco todos os dias  para ingressar no mercado de trabalho.
+  • 1% melhor que ontem.
+</div>
 
-• 1% melhor que ontem.
 ##
 
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenaanRabelo&layout=compact&langs_count=7&theme=dark"/>
@@ -26,5 +29,7 @@ Bem-vindo! Meu nome é Renan.
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/renaan-santos-rabelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-             badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/renaan-santos-rabelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-             badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/renaan.rabelo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 </div>
