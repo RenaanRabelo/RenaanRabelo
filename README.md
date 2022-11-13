@@ -11,6 +11,7 @@ Bem-vindo! Meu nome é Renan.
 • Procuro aprender um pouco todos os dias  para ingressar no mercado de trabalho.
 
 • 1% melhor que ontem.
+##
 
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenaanRabelo&layout=compact&langs_count=7&theme=dark"/>
 
@@ -20,4 +21,10 @@ Bem-vindo! Meu nome é Renan.
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/renaan-santos-rabelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-             badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
