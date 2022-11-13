@@ -9,5 +9,3 @@ Aluno do Instituto Proa, aprendendo Desenvolvimento Web Full Stack Java.
 Procuro aprender um pouco todos os dias  para ingressar no mercado de trabalho.
 
 1% melhor que ontem.
-
-#EternoAprendiz
