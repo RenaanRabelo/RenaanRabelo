@@ -1,5 +1,7 @@
 Bem-vindo! Meu nome é Renan.
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenaanRabelo&layout=compact&langs_count=7&theme=dracula"/>
+
 Estudante de programação 👨‍💻
 
 Atualmente estou cursando ADS na Universidade Cruzeiro do Sul.
