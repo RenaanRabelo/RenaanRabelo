@@ -8,7 +8,7 @@
   
   • Atualmente estou cursando ADS na Universidade Cruzeiro do Sul
 
-  • Aluno do Instituto Proa, aprendendo Desenvolvimento Web Full Stack Java
+  • Formado em Desenvolvimento Web Full Stack Java pelo Instituto Proa
 
   • Aprendendo um pouco todos os dias para ingressar no mercado de trabalho
 
