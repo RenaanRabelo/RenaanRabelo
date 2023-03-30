@@ -10,8 +10,6 @@
 
   • Formado em Desenvolvimento Web Full Stack Java pelo Instituto Proa
 
-  • Aprendendo um pouco todos os dias para ingressar no mercado de trabalho
-
   • 1% melhor que ontem
 </div>
 
